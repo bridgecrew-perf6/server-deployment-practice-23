@@ -15,14 +15,14 @@ app.get("/", (req, res) => {
   res.send("home route");
 });
 
-app.get("/data", (request, response) => {
-  response.status(200).json({
+app.get("/data", (req, res) => {
+  res.status(200).json({
     name: "Marah",
     email: "marahjaradat97@gmail.com",
   });
 });
 
-module.export = {
+module.exports = {
   app: app,
   start: start,
 };
