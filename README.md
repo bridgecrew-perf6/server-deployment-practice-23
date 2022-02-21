@@ -11,6 +11,4 @@ Also we have used CI & CD to make sure that the code is working probably.
    [pull request](https://github.com/marah-jaradat/server-deployment-practice/pull/2)
 
 **3. Heroku link**
-    [deploy-main](https://marahjradat-server-deploy-prod.herokuapp.com/)
-
-    [deploy-dev](https://marahjaradat-server-deploy-dev.herokuapp.com/)/
+    [deploy-main](https://marahjradat-server-deploy-prod.herokuapp.com/),  [deploy-dev](https://marahjaradat-server-deploy-dev.herokuapp.com/)
